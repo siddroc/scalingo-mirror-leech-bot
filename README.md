@@ -48,6 +48,7 @@ btw you can leech from google drive
 - Extract these filetypes and uploads to Google Drive
   > ZIP, RAR, TAR, 7z, ISO, WIM, CAB, GZIP, BZIP2, APM, ARJ, CHM, CPIO, CramFS, DEB, DMG, FAT, HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS, NTFS, RPM, SquashFS, UDF, VHD, XAR, Z, TAR.XZ
 
+#Bot Commands:
 ```
 start - Check Online
 mirror - Mirror
