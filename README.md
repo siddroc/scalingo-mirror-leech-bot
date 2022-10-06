@@ -6,7 +6,7 @@
 3. add accounts folder and token.pickle <br>
 
 ### Tutorial:
-[![Watch the video]
+[![Watch the video](https://youtu.be/43G2AO8569M)
 ### Note: 
 - Aria2p is removed so leech/mirror for direct links and magnets will not work <br>
 btw you can leech from google drive
