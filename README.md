@@ -48,6 +48,41 @@ btw you can leech from google drive
 - Extract these filetypes and uploads to Google Drive
   > ZIP, RAR, TAR, 7z, ISO, WIM, CAB, GZIP, BZIP2, APM, ARJ, CHM, CPIO, CramFS, DEB, DMG, FAT, HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS, NTFS, RPM, SquashFS, UDF, VHD, XAR, Z, TAR.XZ
 
+```
+start - Check Online
+mirror - Mirror
+leech - Leech
+zipmirror - Mirror and upload as zip
+unzipmirror - Mirror and extract files
+qbmirror - Mirror torrent using qBittorrent
+qbzipmirror - Mirror torrent and upload as zip using qb
+qbunzipmirror - Mirror torrent and extract files using qb
+zipleech - Leech and upload as zip
+unzipleech - Leech and extract files
+qbleech - Leech torrent using qBittorrent
+qbzipleech - Leech torrent and upload as zip using qb
+qbunzipleech - Leech torrent and extract using qb
+clone - Copy file/folder to Drive
+count - Count file/folder of Drive
+watch - Mirror yt-dlp supported link
+zipwatch - Mirror yt-dlp supported link as zip
+leechwatch - Leech through yt-dlp supported link
+leechzipwatch - Leech yt-dlp support link as zip
+leechset - Leech settings
+setthumb - Set thumbnail
+status - Get Mirror Status message
+list - Search files in Drive
+cancel - Cancel a task
+cancelall - Cancel all tasks
+del - Delete file/folder from Drive
+log - Get the Bot Log
+shell - Run commands in Shell
+restart - Restart the Bot
+stats - Bot Usage Stats
+ping - Ping the Bot
+help - All cmds with description
+```
+
 # Modified By:
 Yash Oswal (https://github.com/yashoswalyo) <br>
 Majnu Rangeela (https://github.com/majnurangeela)
