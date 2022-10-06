@@ -1,4 +1,4 @@
-# CLONE BOT
+# Scalingo Mirror Leech BOT
 ### This repo is lite version of <a href="https://github.com/anasty17/mirror-leech-telegram-bot">MLTB</a>
 
 1. fill config.env on gist <br>
@@ -6,10 +6,8 @@
 3. add accounts folder and token.pickle <br>
 
 ### Tutorial:
-[![Watch the video](https://img.youtube.com/vi/ZK4e7n1jEE0/hqdefault.jpg)](https://youtu.be/ZK4e7n1jEE0)
-
+[![Watch the video]
 ### Note: 
-- If you are using Service accounts add them to google group and then add google group to shared drive as content manager or watch (https://www.youtube.com/watch?v=gFQWJ4ftt48&t=5034s)
 - Aria2p is removed so leech/mirror for direct links and magnets will not work <br>
 btw you can leech from google drive
 
@@ -49,16 +47,6 @@ btw you can leech from google drive
 - Extract password protected files
 - Extract these filetypes and uploads to Google Drive
   > ZIP, RAR, TAR, 7z, ISO, WIM, CAB, GZIP, BZIP2, APM, ARJ, CHM, CPIO, CramFS, DEB, DMG, FAT, HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS, NTFS, RPM, SquashFS, UDF, VHD, XAR, Z, TAR.XZ
-
-  
-### Add this secrets
-- `HEROKU_API_KEY`
-- `HEROKU_APP_NAME`
-- `HEROKU_EMAIL`
-- `CONFIG_FILE_URL`
-
-### Deploy on heroku without ban
-goto actions and run workflow
 
 # Modified By:
 Yash Oswal (https://github.com/yashoswalyo) <br>
